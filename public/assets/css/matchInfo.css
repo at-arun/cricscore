@@ -1,0 +1,27 @@
+.matchInfoCard {
+	margin-bottom: 20px;
+}
+
+.card-group {
+	margin-bottom: 5px;
+}
+
+.card {
+	margin-right: 5px;
+}
+
+.card-title {
+	color: green;
+}
+
+.wrappers {
+	min-height: 250px;
+}
+
+.scoreBox {
+    color: #072fc1;
+    font-weight: 300;
+    border: 1px solid #d5d5d5;
+    border-radius: 5px;
+    padding: 2px;
+}
